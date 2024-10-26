@@ -1,0 +1,7 @@
+Flask==2.2.2       # The current version which I am using.
+flask-cors==3.0.10 # The current version of flask-cors which I am using.
+gunicorn==20.1.0
+
+
+Flask: This is the web framework which I am  using to create the API.
+flask-cors: This is needed to handle cross-origin requests, which allows my webpage (hosted elsewhere) to access the API.
